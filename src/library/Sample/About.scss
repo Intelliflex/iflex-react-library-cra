@@ -1,0 +1,37 @@
+.test-component {
+  margin-top: 10px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 16px;
+  width: 500px;
+  text-align: center;
+
+  &.test-component-secondary {
+    background-color: black;
+    color: white;
+  }
+
+  &-heading {
+    color: blue;
+  }
+  &-logo {
+    width: 300px;
+    animation: logo-spin infinite 20s linear;
+  }
+  &-counter {
+    color: green;
+  }
+  &-text {
+    color: purple;
+  }
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
