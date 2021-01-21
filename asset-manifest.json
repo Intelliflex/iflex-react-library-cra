@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/iflex-test-cra/static/css/main.488de134.chunk.css",
+    "main.js": "/iflex-test-cra/static/js/main.555c1c44.chunk.js",
+    "main.js.map": "/iflex-test-cra/static/js/main.555c1c44.chunk.js.map",
+    "runtime-main.js": "/iflex-test-cra/static/js/runtime-main.4a223a09.js",
+    "runtime-main.js.map": "/iflex-test-cra/static/js/runtime-main.4a223a09.js.map",
+    "static/js/2.54df47ab.chunk.js": "/iflex-test-cra/static/js/2.54df47ab.chunk.js",
+    "static/js/2.54df47ab.chunk.js.map": "/iflex-test-cra/static/js/2.54df47ab.chunk.js.map",
+    "index.html": "/iflex-test-cra/index.html",
+    "static/css/main.488de134.chunk.css.map": "/iflex-test-cra/static/css/main.488de134.chunk.css.map",
+    "static/js/2.54df47ab.chunk.js.LICENSE.txt": "/iflex-test-cra/static/js/2.54df47ab.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/iflex-test-cra/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a223a09.js",
+    "static/js/2.54df47ab.chunk.js",
+    "static/css/main.488de134.chunk.css",
+    "static/js/main.555c1c44.chunk.js"
+  ]
+}
